@@ -1,5 +1,5 @@
 # A zig websocket server.
-This project follows Zig master. See available branches if you're targeting a specific version.
+The master branch targets the latest stable of Zig (0.15.1). The dev branch targets the latest version of Zig. If you're looking for an older version, look for an zig-X.YZ branches.
 
 Skip to the [client section](#client).
 
